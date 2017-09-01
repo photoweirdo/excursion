@@ -1,0 +1,17 @@
+body {background-color: black;
+      text-align: center;}
+h1,p {color:white;
+font-family:verdana;}
+.links {color:aquamarine;
+        font-size:16px;}
+
+
+
+
+.gray_text {color:gray;
+            font-size:21px;}
+#copyright {text-align:right;}
+#first_header {font-weight:normal;
+               font-size:50px;}
+#second_header, #third_header {font-weight:300;
+                              font_size:42px;}
